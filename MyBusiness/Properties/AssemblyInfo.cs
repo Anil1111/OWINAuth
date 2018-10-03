@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MyBusiness")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Royal London Group")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MyBusiness")]
-[assembly: AssemblyCopyright("Copyright © Royal London Group 2018")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
